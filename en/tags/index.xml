@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Shuhan Yang</title>
-    <link>http://localhost:1313/shy.github.io/en/tags/</link>
+    <link>https://shuhan5.github.io/shy.github.io/en/tags/</link>
     <description>Recent content in Tags on Shuhan Yang</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/shy.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 05:44:21 +0200</lastBuildDate>
+    <atom:link href="https://shuhan5.github.io/shy.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latest-Post</title>
+      <link>https://shuhan5.github.io/shy.github.io/en/tags/latest-post/</link>
+      <pubDate>Thu, 03 Oct 2024 05:44:21 +0200</pubDate>
+      <guid>https://shuhan5.github.io/shy.github.io/en/tags/latest-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>https://shuhan5.github.io/shy.github.io/en/tags/writing/</link>
+      <pubDate>Thu, 03 Oct 2024 05:44:21 +0200</pubDate>
+      <guid>https://shuhan5.github.io/shy.github.io/en/tags/writing/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
