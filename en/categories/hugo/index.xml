@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on Shuhan Yang</title>
-    <link>https://shuhan5.github.io/shy.github.io/en/categories/hugo/</link>
+    <link>http://localhost:1313/shy.github.io/en/categories/hugo/</link>
     <description>Recent content in Hugo on Shuhan Yang</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Oct 2024 05:44:21 +0200</lastBuildDate>
-    <atom:link href="https://shuhan5.github.io/shy.github.io/en/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jan 2025 15:44:21 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/shy.github.io/en/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/shy.github.io/en/neuroscience/resume/</link>
+      <pubDate>Fri, 31 Jan 2025 15:44:21 +0200</pubDate>
+      <guid>http://localhost:1313/shy.github.io/en/neuroscience/resume/</guid>
+      <description>Shuhan YANG Address: 2820 Gentofte, Copenhagen, Denmark
+Email: shy148110@gmail.com Tel: +45 31892876
+EDUCATION University of Copenhagen, Copenhagen, Denmark Master of Science in Neuroscience
+Sep 2021 – Feb 2024
+Courses: Experimental Design in Neuroscience 1 &amp;amp; 2, Higher Brain Function, Cells and Circuits, Computational Neurosciences
+Yunnan University (YNU), School of Life Sciences, Kunming, China Bachelor of Science in Biological Technology
+Sep 2017 – Jun 2021
+Courses: Zoobiology, Animal Physiology, Biochemistry, Cell Biology (Bilingual Education), Immunology, Molecular Biology, Cell Engineering, Genetics, Enzymes (Proteins) Engineering, Gene Engineering, Microbiology, Virology, Genomics</description>
+    </item>
     <item>
       <title>Poor Academic Performance</title>
-      <link>https://shuhan5.github.io/shy.github.io/en/writing/poor-academic-performance/</link>
+      <link>http://localhost:1313/shy.github.io/en/writing/poor-academic-performance/</link>
       <pubDate>Thu, 03 Oct 2024 05:44:21 +0200</pubDate>
-      <guid>https://shuhan5.github.io/shy.github.io/en/writing/poor-academic-performance/</guid>
+      <guid>http://localhost:1313/shy.github.io/en/writing/poor-academic-performance/</guid>
       <description>I lack academic excellence.
 On the first day I was hospitalized, I instinctively diagnosed two patients with ASD and ADHD. The one with ASD lives in room 1, while the one with ADHD occupies room 13. The girl with ASD showed me her room right after I moved in; her phone rang incessantly, to the point that she seemed to vibrate along with it. The sharp ringtones struck her like electric shocks, causing her fingers to flap like butterfly wings.</description>
     </item>
