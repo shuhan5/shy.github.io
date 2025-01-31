@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Shuhan Yang</title>
-    <link>http://localhost:1313/shy.github.io/en/</link>
-    <description>Recent content on Shuhan Yang</description>
+    <title>Neuroscience on Shuhan Yang</title>
+    <link>http://localhost:1313/shy.github.io/en/categories/neuroscience/</link>
+    <description>Recent content in Neuroscience on Shuhan Yang</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 31 Jan 2025 15:44:21 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/shy.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/shy.github.io/en/categories/neuroscience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
       <link>http://localhost:1313/shy.github.io/en/neuroscience/resume/</link>
@@ -21,14 +21,6 @@ Courses: Experimental Design in Neuroscience 1 &amp;amp; 2, Higher Brain Functio
 Yunnan University (YNU), School of Life Sciences, Kunming, China Bachelor of Science in Biological Technology
 Sep 2017 – Jun 2021
 Courses: Zoobiology, Animal Physiology, Biochemistry, Cell Biology (Bilingual Education), Immunology, Molecular Biology, Cell Engineering, Genetics, Enzymes (Proteins) Engineering, Gene Engineering, Microbiology, Virology, Genomics</description>
-    </item>
-    <item>
-      <title>Poor Academic Performance</title>
-      <link>http://localhost:1313/shy.github.io/en/writing/poor-academic-performance/</link>
-      <pubDate>Thu, 03 Oct 2024 05:44:21 +0200</pubDate>
-      <guid>http://localhost:1313/shy.github.io/en/writing/poor-academic-performance/</guid>
-      <description>I lack academic excellence.
-On the first day I was hospitalized, I instinctively diagnosed two patients with ASD and ADHD. The one with ASD lives in room 1, while the one with ADHD occupies room 13. The girl with ASD showed me her room right after I moved in; her phone rang incessantly, to the point that she seemed to vibrate along with it. The sharp ringtones struck her like electric shocks, causing her fingers to flap like butterfly wings.</description>
     </item>
   </channel>
 </rss>

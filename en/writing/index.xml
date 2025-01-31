@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Writings on Shuhan Yang</title>
+    <link>http://localhost:1313/shy.github.io/en/writing/</link>
+    <description>Recent content in Writings on Shuhan Yang</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Oct 2024 05:44:21 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/shy.github.io/en/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poor Academic Performance</title>
+      <link>http://localhost:1313/shy.github.io/en/writing/poor-academic-performance/</link>
+      <pubDate>Thu, 03 Oct 2024 05:44:21 +0200</pubDate>
+      <guid>http://localhost:1313/shy.github.io/en/writing/poor-academic-performance/</guid>
+      <description>I lack academic excellence.
+On the first day I was hospitalized, I instinctively diagnosed two patients with ASD and ADHD. The one with ASD lives in room 1, while the one with ADHD occupies room 13. The girl with ASD showed me her room right after I moved in; her phone rang incessantly, to the point that she seemed to vibrate along with it. The sharp ringtones struck her like electric shocks, causing her fingers to flap like butterfly wings.</description>
+    </item>
+  </channel>
+</rss>
